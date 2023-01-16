@@ -1,13 +1,12 @@
 # HW1
-Name:Chengyi Li
+Name:
 
-Github Account name: lidudu810
+Github Account name: 
 
-How many hours did it take you to complete this assignment (estimate)? 5hr
+How many hours did it take you to complete this assignment (estimate)? 
 
 Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
 - one per row, add more if needed
-Zhanpeng Tong
 
 
 Did you use any external resources (you do not have to cite in class material)? (Cite them below)  
